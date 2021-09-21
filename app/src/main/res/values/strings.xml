@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="title_list">Lista</string>
+    <string name="title_create">Crear</string>
+    <string name="title_read">Buscar</string>
+    <string name="title_update">Actualizar</string>
+    <string name="title_delete">Borrar</string>
+    <string name="name_hint">Digite el nombre:</string>
+    <string name="phone_hint">Digite el telefono:</string>
+    <string name="amount_hint">Digite el valor de la deuda:</string>
+    <string name="Create">Crear</string>
+    <string name="name_example">Carlos Mario Lopez</string>
+    <string name="amount_example">120000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_detail">Detalle del deudor</string>
+    <string name="phone_example">3156847312</string>
+    <string name="phone_value">Telefono: %s</string>
+    <string name="amount_value">Valor de la deuda: $%s</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="user_name">Ingrese correo</string>
+    <string name="pass">Ingrese contraseña</string>
+    <string name="passAgain">Confirme Contraseña</string>
+</resources>
